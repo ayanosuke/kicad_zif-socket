@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 214-3339
+D 3M_Zif Socket_14pin_300mil
+F http://www.mmm.co.jp/electrical/textool/dip/pdf/f05.pdf
+$ENDCMP
+#
+$CMP 216-3340
+D 3M_Zif Socket_16pin_300mil
+F http://www.mmm.co.jp/electrical/textool/dip/pdf/f05.pdf
+$ENDCMP
+#
+$CMP 218-3341
+D 3M_Zif Socket_18pin_300mil
+F http://www.mmm.co.jp/electrical/textool/dip/pdf/f05.pdf
+$ENDCMP
+#
+$CMP 220-3342
+D 3M_Zif Socket_20pin_300mil
+F http://www.mmm.co.jp/electrical/textool/dip/pdf/f05.pdf
+$ENDCMP
+#
+$CMP 228-3341
+D 3M_Zif Socket_28pin_300mil
+F http://www.mmm.co.jp/electrical/textool/dip/pdf/f05.pdf
+$ENDCMP
+#
+#End Doc Library
